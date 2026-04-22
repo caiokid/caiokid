@@ -22,7 +22,7 @@ const caio = {
 };
 ```
 
-> 🐍 Pratico exercícios de **Python** e **Java** regularmente para fixar lógica e estruturas de dados.
+> 🐍 Pratico exercícios de **Python** e **Java** regularmente para aprender um pouco sobre as linguagens.
 
 ---
 
