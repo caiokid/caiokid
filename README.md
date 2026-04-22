@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Caio%20Moura&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Caio%20Franca&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+automa%C3%A7%C3%B5es+%F0%9F%A4%96;Construindo+solu%C3%A7%C3%B5es+reais+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Foco+no+Back-End%2C+mas+me+viro+no+Front+%F0%9F%94%A5;Apaixonado+por+automa%C3%A7%C3%B5es+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,11 +15,14 @@ const caio = {
   role:       "Full Stack Developer",
   education:  "Ciência da Computação @ Anhembi Morumbi",
   location:   "São Paulo, Brasil 🇧🇷",
-  currently:  ["Estudando React + TypeScript", "Construindo bots com n8n"],
-  learning:   ["Java Spring", "DevOps", "Inglês 🇺🇸"],
-  funFact:    "Automatizo barbearias e lojas automotivas no tempo livre 😄"
+  focus:      "Back-End — mas me viro bem no Front também 💪",
+  currently:  ["Estudando React + TypeScript", "Construindo projetos reais"],
+  learning:   ["Java Spring", "DevOps", "Python", "Inglês 🇺🇸"],
+  funFact:    "Aprendo automação no tempo livre e aplico em negócios reais 🤖"
 };
 ```
+
+> 🐍 Pratico exercícios de **Python** e **Java** regularmente para fixar lógica e estruturas de dados.
 
 ---
 
@@ -48,14 +51,12 @@ const caio = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps & Ferramentas**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -84,16 +85,30 @@ const caio = {
 <div align="center">
 
 [![barber-back](https://github-readme-stats.vercel.app/api/pin/?username=caiokid&repo=barber-back&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/caiokid/barber-back)
-[![php-barbearia](https://github-readme-stats.vercel.app/api/pin/?username=caiokid&repo=primeiro_projeto_php_admin_barbearia&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/caiokid/primeiro_projeto_php_admin_barbearia)
+[![barber-front](https://github-readme-stats.vercel.app/api/pin/?username=caiokid&repo=barber-front&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/caiokid/barber-front)
 
 </div>
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🤖 **[barber-back](https://github.com/caiokid/barber-back)** | Chatbot de agendamento via WhatsApp com IA | n8n · PostgreSQL · Redis · Evolution API |
-| 💈 **[php-admin-barbearia](https://github.com/caiokid/primeiro_projeto_php_admin_barbearia)** | Sistema completo de gestão de barbearia (MVC, sem frameworks) | PHP · MySQL · HTML/CSS |
-| ⚛️ **[barber-front](https://github.com/caiokid/barber-front)** | App de barbearia com front moderno | React · TypeScript · Node.js · MongoDB |
-| 🌐 **[site-noticias](https://github.com/caiokid/javascript_mongodb_site_noticia)** | Site de notícias com banco NoSQL | JavaScript · MongoDB |
+---
+
+### 🔧 barber-back
+> API REST construída com **Node.js**, seguindo arquitetura organizada em **Controllers**, **Models** e **Routes**. Implementa autenticação com **JWT**, upload de arquivos com **Multer** e persistência de dados com **MongoDB**. Um back-end sólido, escalável e bem estruturado.
+
+`Node.js` `Express` `MongoDB` `JWT` `Multer` `REST API`
+
+---
+
+### 🖥️ barber-front
+> Front-end que consome diretamente a API do **barber-back**. Desenvolvido com **React** e **TypeScript**, entregando uma interface moderna e tipada para o sistema de barbearia.
+
+`React` `TypeScript` `REST Consumption`
+
+---
+
+### 💈 php-admin-barbearia — [ver repo](https://github.com/caiokid/primeiro_projeto_php_admin_barbearia)
+> Sistema de gestão de barbearia feito **na unha**, sem frameworks, seguindo o padrão **MVC** puro. Um projeto que demonstra domínio real da linguagem e da arquitetura, construído com disciplina e foco em fundamentos.
+
+`PHP` `MySQL` `HTML` `CSS` `MVC`
 
 ---
 
@@ -111,7 +126,9 @@ const caio = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/caiokid/caiokid/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caiokid&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Visitors](https://komarev.com/ghpvc/?username=caiokid&color=58a6ff&style=for-the-badge&label=VISITANTES)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
