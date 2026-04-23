@@ -22,8 +22,7 @@ const caio = {
 };
 ```
 
-> 🐍 Pratico exercícios de **Python** e **Java** regularmente para aprender um pouco sobre as linguagens.
-
+💡 Por curiosidade, já brinquei com Python e Java — nada avançado, mas o suficiente pra aprender.
 ---
 
 ## 🛠️ Tech Stack
@@ -91,14 +90,14 @@ const caio = {
 
 ---
 
-### 🔧 barber-back
+### 🔧 barber-back -  [ver repo](https://github.com/caiokid/barber-back)
 > API REST construída com **Node.js**, seguindo arquitetura organizada em **Controllers**, **Models** e **Routes**. Implementa autenticação com **JWT**, upload de arquivos com **Multer** e persistência de dados com **MongoDB**. Um back-end sólido, escalável e bem estruturado.
 
 `Node.js` `Express` `MongoDB` `JWT` `Multer` `REST API`
 
 ---
 
-### 🖥️ barber-front
+### 🖥️ barber-front -  [ver repo](https://github.com/caiokid/barber-front)
 > Front-end que consome diretamente a API do **barber-back**. Desenvolvido com **React** e **TypeScript**, entregando uma interface moderna e tipada para o sistema de barbearia.
 
 `React` `TypeScript` `REST Consumption`
