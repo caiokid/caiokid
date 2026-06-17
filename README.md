@@ -17,13 +17,10 @@ const caio = {
   location:   "São Paulo, Brasil 🇧🇷",
   focus:      "Back-End — mas me viro bem no Front também 💪",
   currently:  ["Estudando React + TypeScript", "Construindo projetos reais"],
-  learning:   ["Java Spring", "DevOps", "Python", "Inglês 🇺🇸"],
+  learning:   ["Java Spring", "Inglês 🇺🇸"],
   funFact:    "Aprendo automação no tempo livre e aplico em negócios reais 🤖"
 };
 ```
-
-💡 Por curiosidade, já brinquei com Python e Java — nada avançado, mas o suficiente pra aprender.
----
 
 ## 🛠️ Tech Stack
 
